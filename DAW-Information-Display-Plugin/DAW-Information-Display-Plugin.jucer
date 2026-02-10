@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="jOZLsu" name="DAW-Information-Display-Plugin" projectType="audioplug"
+<JUCERPROJECT id="By5fKk" name="DAW-Information-Display-Plugin" projectType="audioplug"
               useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
-  <MAINGROUP id="PTCPx2" name="DAW-Information-Display-Plugin">
-    <GROUP id="{4C0F3CFF-B629-E214-FFCD-9B41C5382870}" name="Source">
-      <FILE id="sXSWe4" name="PluginProcessor.cpp" compile="1" resource="0"
+  <MAINGROUP id="QI3gkM" name="DAW-Information-Display-Plugin">
+    <GROUP id="{ED99FFB0-4E55-3656-DECE-EE8DFC990B21}" name="Source">
+      <FILE id="T0awnj" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
-      <FILE id="tbPDv6" name="PluginProcessor.h" compile="0" resource="0"
+      <FILE id="lDjJiF" name="PluginProcessor.h" compile="0" resource="0"
             file="Source/PluginProcessor.h"/>
-      <FILE id="Fi5lWx" name="PluginEditor.cpp" compile="1" resource="0"
+      <FILE id="oZP8pg" name="PluginEditor.cpp" compile="1" resource="0"
             file="Source/PluginEditor.cpp"/>
-      <FILE id="PJS17w" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="DJ5I0V" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
   <MODULES>
@@ -34,8 +34,8 @@
   <EXPORTFORMATS>
     <XCODE_MAC targetFolder="Builds/MacOSX">
       <CONFIGURATIONS>
-        <CONFIGURATION isDebug="1" name="Debug" targetName="NewProject"/>
-        <CONFIGURATION isDebug="0" name="Release" targetName="NewProject"/>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="DAW-Information-Display-Plugin"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="DAW-Information-Display-Plugin"/>
       </CONFIGURATIONS>
       <MODULEPATHS>
         <MODULEPATH id="juce_audio_basics" path="../../../../../../../../../Applications/JUCE/modules"/>
